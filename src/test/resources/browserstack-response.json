@@ -1,0 +1,34 @@
+{
+  "automation_session": {
+    "name": "first_test",
+    "duration": 42,
+    "os": "android",
+    "os_version": "9.0",
+    "browser_version": "app",
+    "browser": null,
+    "device": "Google Pixel 3",
+    "status": "done",
+    "hashed_id": "7aad1a5c7ad7dd013e5d5bc2844e5809c29bc17f",
+    "reason": "CLIENT_STOPPED_SESSION",
+    "build_name": "browserstack-build-2",
+    "project_name": "First Java Project",
+    "build_hashed_id": "7b4a6837f210f90958aa37e7675190098a8fa35b",
+    "logs": "https://app-automate.browserstack.com/builds/7b4a6837f210f90958aa37e7675190098a8fa35b/sessions/7aad1a5c7ad7dd013e5d5bc2844e5809c29bc17f/logs",
+    "browserstack_status": "done",
+    "created_at": "2023-01-06T13:14:31.000Z",
+    "browser_url": "https://app-automate.browserstack.com/builds/7b4a6837f210f90958aa37e7675190098a8fa35b/sessions/7aad1a5c7ad7dd013e5d5bc2844e5809c29bc17f",
+    "public_url": "https://app-automate.browserstack.com/builds/7b4a6837f210f90958aa37e7675190098a8fa35b/sessions/7aad1a5c7ad7dd013e5d5bc2844e5809c29bc17f?auth_token=7124d7fcb563d9c41d8fda4df83a6d3c27443fa89faefa277a354cb5f7f51f4f",
+    "video_url": "https://app-automate.browserstack.com/sessions/7aad1a5c7ad7dd013e5d5bc2844e5809c29bc17f/video?token=b2lreVV0c3o0d3poeTUwcytJVHdKdHBSbTVaUEFpOXBUY1JtTTMxYXhTM0ZXSUZ1ZzI1bnpUa2JxYkk3b1ZqTWlIWXdETlZxY29GNTFZd0w5bnFnVWc9PS0tL21nWEJtYXpvK0lsOHNmQlZDYUxHdz09--1afd2748bafb50f6d0b91c8e7e27c55799f8acd4&source=rest_api&diff=5.177409933",
+    "appium_logs_url": "https://api.browserstack.com/app-automate/builds/7b4a6837f210f90958aa37e7675190098a8fa35b/sessions/7aad1a5c7ad7dd013e5d5bc2844e5809c29bc17f/appiumlogs",
+    "device_logs_url": "https://api.browserstack.com/app-automate/builds/7b4a6837f210f90958aa37e7675190098a8fa35b/sessions/7aad1a5c7ad7dd013e5d5bc2844e5809c29bc17f/devicelogs",
+    "app_details": {
+      "app_url": "bs://c6fdaa1220bbb5481bc3008456a8359856c8df39",
+      "app_name": "org.wikipedia.alpha",
+      "app_version": "2.7.50426-alpha-2023-01-05",
+      "app_custom_id": null,
+      "uploaded_at": "2023-01-06T12:55:41.000Z"
+    },
+    "session_terminal_logs_url": "https://app-automate.browserstack.com/s3-upload/bs-selenium-logs-use/s3/data/7b4a6837f210f90958aa37e7675190098a8fa35b/7aad1a5c7ad7dd013e5d5bc2844e5809c29bc17f-terminal-logs.txt?response-content-type=text%2Fplain&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2XUQHUQMO4B4HTP7%2F20230106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230106T131518Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=443c16eed53a2bbcf98039111482969bc47dce4415595758d16d83d9bcd85758",
+    "build_terminal_logs_url": "https://app-automate.browserstack.com/s3-upload/bs-selenium-logs-use/s3/data/7b4a6837f210f90958aa37e7675190098a8fa35b/terminal-logs.txt?response-content-type=text%2Fplain&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2XUQHUQMO4B4HTP7%2F20230106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230106T131518Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8316781de3a11477f0852064450c7c7efe3dd2f97c0b091fd00e009a8ad7c797"
+  }
+}
